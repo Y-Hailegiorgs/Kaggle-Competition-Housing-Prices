@@ -1,2 +1,5 @@
 # Kaggle-Competition-Housing-Prices
-Predicting housing prices using regression techniques
+
+•	Used feature engineering such as one hot encoding and dealt with null values
+•	Used the regression technique of gradient boosting to determine housing prices
+
